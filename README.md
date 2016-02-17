@@ -27,7 +27,7 @@ Write an article, giving your opinion on something you have learned in this cour
 
 The only requirement is that the article is at least 150 words long (not counting snippits of code).
 
-**Also, you cannot write about the same topic as last time in Medium Article 1**
+**Also, you cannot write about the same topic you wrote about in Medium Article 1!**
 
 Some of the topics we've covered so far:
 
