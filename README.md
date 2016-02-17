@@ -5,9 +5,11 @@ duration: "1:00"
 creator: James Davis (NYC)
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Medium Article #1
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Medium Article #2
 
 ## Exercise
+
+**Your second article! Jump right to the requirements for an updated list of what we covered.**
 
 When looking for a job, having a good web presense is important. There are many ways to improve your web presense: LinkedIn, GitHub, etc. Today, we are going to try Medium.
 
