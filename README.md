@@ -49,6 +49,6 @@ Some of the topics we've covered so far:
 
 #### Deliverable
 
-> Link to your article: [Title of Article](http://Link.To.Article)
+> Link to your article: [Customizing Search View Functionality](https://medium.com/@npanchee/customizing-search-view-functionality-569b6d2fa2d8#.46k14hbq3)
 
 Edit this readme, and put the link to the article above. Make a pull request, with the request titled "Your Name - Medium Article".
